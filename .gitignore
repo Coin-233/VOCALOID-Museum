@@ -1,0 +1,8 @@
+node_modules
+
+.vitepress/cache
+dist
+
+.env
+
+articles/public/archive
