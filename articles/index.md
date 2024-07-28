@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "违唯博物馆"
-  text: " "
+  text: "VOCALOID-Museum"
   #tagline: Picture from Ark Order.
   image:
     src: /kun.webp

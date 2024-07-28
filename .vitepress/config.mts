@@ -34,6 +34,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'VOCALOID ', link: '/s/' },
+      {text: '琳峰', link: 'https://museum.leafing.xyz/'}
     ],
 
     sidebar: sidebarConfig,
